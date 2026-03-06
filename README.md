@@ -3,7 +3,7 @@
 > A robust and decoupled logging abstraction layer for Python, built with the Hexagonal pattern.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Rick-torrellas/core-logger-engine/badges/version.json)
+![Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Rick-torrellas/core-log-engine/badges/version.json)
 [![main ci/cd pipeline](https://github.com/Rick-torrellas/core-log-engine/actions/workflows/main.yaml/badge.svg)](https://github.com/Rick-torrellas/core-log-engine/actions/workflows/main.yaml)
 
 ---
