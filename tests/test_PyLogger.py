@@ -3,7 +3,7 @@ import logging
 import pytest
 
 # Ajusta la importación según tu estructura real
-from CapsuleCore_logger.capsule.PyLogger import PyLogger
+from cc_logger_kit.capsule import PyLogger
 
 
 class TestPyLogger:

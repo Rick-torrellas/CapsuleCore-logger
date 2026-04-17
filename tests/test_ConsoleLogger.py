@@ -2,7 +2,7 @@ from datetime import datetime
 
 import pytest
 
-from CapsuleCore_logger import ConsoleLogger
+from cc_logger_kit.capsule import ConsoleLogger
 
 
 class TestConsoleLogger:

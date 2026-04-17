@@ -1,6 +1,6 @@
 import pytest
 
-from CapsuleCore_logger import NullLogger
+from cc_logger_kit.capsule import NullLogger
 
 
 class TestNullLogger:

@@ -1,4 +1,4 @@
-# Capsule Core Logger
+# cc_logger_kit
 
 > A robust and decoupled logging abstraction layer for Python, built with the Hexagonal pattern.
 
@@ -20,14 +20,14 @@ A simple and robust abstraction layer for the Python logging system, built follo
 ## Installation
 
 ```bash
-pip install capsulecore_logger
+pip install cc.logger-kit
 ```
 
 
 ## Usage
 
 ```python
-from CapsuleCore_logger import ConsoleLogger
+from cc_logger_kit.capsule import ConsoleLogger
 
 logger = ConsoleLogger()
 

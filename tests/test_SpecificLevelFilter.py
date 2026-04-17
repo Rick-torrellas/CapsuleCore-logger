@@ -2,7 +2,7 @@ import logging
 
 import pytest
 
-from CapsuleCore_logger.capsule.SpecificLevelFilter import SpecificLevelFilter
+from cc_logger_kit.capsule import SpecificLevelFilter
 
 # Asumiendo que tu clase está en el mismo archivo o importada
 # from mi_modulo import SpecificLevelFilter
