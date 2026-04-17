@@ -1,9 +1,9 @@
 import logging
 
-from core_log_engine.port import Logger
+from ..core import Logger
 
 
-class AppLogger(Logger):
+class PyLogger(Logger):
     """A Logger port implementation that uses Python's standard logging library."""
 
     def __init__(self, name: str) -> None:
